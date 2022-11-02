@@ -1,0 +1,8 @@
+D:\Users\MelihGuler\source\repos\SerdarKırısogluDers1\ConsoleApp4(siniflar)\bin\Debug\ConsoleApp4(siniflar).exe.config
+D:\Users\MelihGuler\source\repos\SerdarKırısogluDers1\ConsoleApp4(siniflar)\bin\Debug\ConsoleApp4(siniflar).exe
+D:\Users\MelihGuler\source\repos\SerdarKırısogluDers1\ConsoleApp4(siniflar)\bin\Debug\ConsoleApp4(siniflar).pdb
+D:\Users\MelihGuler\source\repos\SerdarKırısogluDers1\ConsoleApp4(siniflar)\obj\Debug\ConsoleApp4(siniflar).csproj.AssemblyReference.cache
+D:\Users\MelihGuler\source\repos\SerdarKırısogluDers1\ConsoleApp4(siniflar)\obj\Debug\ConsoleApp4(siniflar).csproj.SuggestedBindingRedirects.cache
+D:\Users\MelihGuler\source\repos\SerdarKırısogluDers1\ConsoleApp4(siniflar)\obj\Debug\ConsoleApp4(siniflar).csproj.CoreCompileInputs.cache
+D:\Users\MelihGuler\source\repos\SerdarKırısogluDers1\ConsoleApp4(siniflar)\obj\Debug\ConsoleApp4(siniflar).exe
+D:\Users\MelihGuler\source\repos\SerdarKırısogluDers1\ConsoleApp4(siniflar)\obj\Debug\ConsoleApp4(siniflar).pdb

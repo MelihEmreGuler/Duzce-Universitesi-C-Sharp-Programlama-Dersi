@@ -1,0 +1,8 @@
+D:\Users\MelihGuler\source\repos\SerdarKırısogluDers1\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+D:\Users\MelihGuler\source\repos\SerdarKırısogluDers1\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+D:\Users\MelihGuler\source\repos\SerdarKırısogluDers1\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+D:\Users\MelihGuler\source\repos\SerdarKırısogluDers1\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.AssemblyReference.cache
+D:\Users\MelihGuler\source\repos\SerdarKırısogluDers1\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.SuggestedBindingRedirects.cache
+D:\Users\MelihGuler\source\repos\SerdarKırısogluDers1\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CoreCompileInputs.cache
+D:\Users\MelihGuler\source\repos\SerdarKırısogluDers1\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+D:\Users\MelihGuler\source\repos\SerdarKırısogluDers1\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
